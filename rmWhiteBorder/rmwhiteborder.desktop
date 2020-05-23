@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=rmwhiteborder
+X-Python-2-Compatible=false
+X-Krita-Manual=
+Name=rmWhiteBorder
+Comment=Remove white border lines from the Toolbar
+
