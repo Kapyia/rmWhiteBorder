@@ -9,7 +9,7 @@ class RmWhiteBorder(Extension):
         pass
 
     def createActions(self, window):
-        Krita.instance().activeWindow().qwindow().setStyleSheet("""
+        window.qwindow().setStyleSheet("""
             QToolBar {
                 border: none;
             }
